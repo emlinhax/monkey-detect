@@ -1,12 +1,3 @@
-// lazy integrity checks
-var functionCheck = "{ [native code] }"
-if(!Reflect.apply.toString().endsWith(functionCheck)) 
-  block()
-if(!Proxy.constructor.toString().endsWith(functionCheck)) 
-  block()
-if(!"".__proto__.includes.toString().endsWith(functionCheck)) 
-  block()
-
 var isSelf = 0;
 const __Reflect_apply = Reflect.apply
 const hook = (_class, blacklist, callback) => {
