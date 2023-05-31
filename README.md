@@ -7,6 +7,7 @@ This could be used as an anti cheating mechanism or whatever you want.
 
 Usage: 
 ```javascript
+
 // argument 1: the class/namespace you want to watch all the functions of (example: window, CanvasRenderingContext2D, ...)
 // argument 2: the blacklist (functions that will not be hooked)
 // argument 3: a callback (that takes the function name as an argument).
