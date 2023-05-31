@@ -20,7 +20,7 @@ const hook = (_class, blacklist, callback) => {
 
             let stackarr = new Error().stack.split("at ").slice(2);
             if (stackarr.some(stackEntry => stackEntry.includes("dhdgffkkebhmkfjojejmpbldmpobfkfo/userscript.html"))) { 
-              callback()
+              callback(target.name)
             }
 
             isSelf = 1;
