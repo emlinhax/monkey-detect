@@ -23,4 +23,4 @@ function exampleCallback(name) {
 }
 ```
 
-![Showcase](https://s12.gifyu.com/images/Suqs4.gif)
+[Showcase](https://s12.gifyu.com/images/Suqs4.gif)
