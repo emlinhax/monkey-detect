@@ -2,7 +2,8 @@
 Detect Tampermonkey scripts by stackwalking
 
 This script will detect running tampermonkey that call functions on your site.\
-This could be used as an anti cheating mechanism or whatever you want.
+This could be used as an anti cheating mechanism or whatever you want.\
+PS: I recommend to obfuscate the script and hide it well so people dont find it immediatly.
 
 
 Usage: 
