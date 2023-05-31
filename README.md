@@ -22,3 +22,7 @@ function exampleCallback(name) {
   document.body.innerHTML = "<div style=\"text-align: center;\"><h1>Please disable TamperMonkey!</h1></div>";
 }
 ```
+
+
+
+![Showcase]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://s12.gifyu.com/images/Suqs4.gif))
