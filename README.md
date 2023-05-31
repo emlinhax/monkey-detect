@@ -1,7 +1,7 @@
 # monkey-detect
 Detect Tampermonkey scripts by stackwalking
 
-This script will detect running tampermonkey that call functions on your site.
+This script will detect running tampermonkey that call functions on your site.\
 This could be used as an anti cheating mechanism or whatever you want.
 
 
