@@ -23,4 +23,4 @@ function exampleCallback(name) {
 }
 ```
 
-[Showcase](https://github.com/R4YVEN/monkey-detect/blob/main/showcase.gif)
+![Showcase](https://github.com/R4YVEN/monkey-detect/blob/main/showcase.gif)
