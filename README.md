@@ -5,6 +5,9 @@ This script will detect running tampermonkey that call functions on your site.\
 This could be used as an anti cheating mechanism or whatever you want.\
 PS: I recommend to obfuscate the script and hide it well so people dont find it immediatly.
 
+During testing it was able to detect alot of pretty well known tampermonkey scripts\
+for the popular browser game diep.io which proved that the concept works!
+
 
 Usage: 
 ```javascript
