@@ -23,6 +23,6 @@ function exampleCallback(name) {
 }
 ```
 
+https://s12.gifyu.com/images/Suqs4.gif
 
-
-![Showcase]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://s12.gifyu.com/images/Suqs4.gif))
+![Showcase](https://s12.gifyu.com/images/Suqs4.gif)
